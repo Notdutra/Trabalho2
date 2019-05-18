@@ -14,11 +14,19 @@ public class Apravla{
         System.out.println("Entrada: " + palavra + " Saída: + deformaPalavraI(palavra)");
         System.out.println("Entrada: " + palavra + " Saída: + deformaPalavraR(palavra)");
     }
-    
+  
+/**
+** Este método iterativo deforma palavras conforme enunciado do exercício de forma Iterativa.
+** @param palavra Palavra a ser deformada
+**/
 public static String deformaPalavraI(String palavra){
 
 }
 
+/**
+** Este método iterativo deforma palavras conforme enunciado do exercício de forma Recursiva.
+** @param palavra Palavra a ser deformada
+**/
 public static Stirng deformaPalavraR(String palavra){
 
 }
