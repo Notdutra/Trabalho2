@@ -11,8 +11,8 @@ public class Apravla{
         Scanner teclado = new Scanner(System.in);
         System.out.println("Informe a palavra a ser transformada: ");
         String palavra = teclado.nextLine();
-        System.out.println("Entrada: " + palavra + " Saída: + deformaPalavraI(palavra)");
-        System.out.println("Entrada: " + palavra + " Saída: + deformaPalavraR(palavra)");
+        System.out.println("Entrada: " + palavra + " Saída: " + deformaPalavraI(palavra));
+        System.out.println("Entrada: " + palavra + " Saída: " + deformaPalavraR(palavra));
     }
   
 /**
