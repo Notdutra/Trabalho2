@@ -1,0 +1,26 @@
+
+/**
+ * Este método troca a ordem das letras de forma que pegue a ultima e a primeira letra até terminar a palavra.
+ *
+ * @author Arthur e Gabriel
+ * @version 1.0
+ */
+import java.util.Scanner;
+public class Apravla{
+    public static void main (String arg[]){
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("Informe a palavra a ser transformada: ");
+        String palavra = teclado.nextLine();
+        System.out.println("Entrada: " + palavra + " Saída: + deformaPalavraI(palavra)");
+        System.out.println("Entrada: " + palavra + " Saída: + deformaPalavraR(palavra)");
+    }
+    
+public static String deformaPalavraI(String palavra){
+
+}
+
+public static Stirng deformaPalavraR(String palavra){
+
+}
+}
+
